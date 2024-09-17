@@ -6,7 +6,7 @@ We: The Developers
 We, SERVANTS, take your privacy seriously and committed to protecting it. To better protect your privacy we provide this privacy policy notice, explaining the way your personal information is collected and used in our app.  
 
 ## Collection of Routine Information
-This app track basic information about users such as your name, email address, contact, age group, etc. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. 
+This app collects basic information about users such as your name, email address, contact, age group, etc. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. 
 
 ## Usage Data 
 The information is tracked for routine administration, auditing and maintenance purposes.
