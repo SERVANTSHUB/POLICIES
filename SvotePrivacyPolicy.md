@@ -34,4 +34,4 @@ This Privacy Policy is effective as of June 20, 2020 and will remain in effect e
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on this page.
 
 ## Contact Information
-For any questions or concerns regarding this privacy policy, please send us an email to developers@servantsteam.tech.
+For any questions or concerns regarding this privacy policy, please send us an email to developers@servantsteam.tech/developers@servantsteam.online.
