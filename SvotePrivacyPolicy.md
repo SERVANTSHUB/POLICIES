@@ -1,6 +1,7 @@
-> [!IMPORTANT]Developers: SERVANTS
-> [!IMPORTANT]Product: SVOTE - Online Voting App
-> [!IMPORTANT]We: The Developers
+> [!IMPORTANT]
+> * We: The Developers
+> * Developers: SERVANTS
+> * Product: SVOTE - Online Voting App
 
 # Privacy Policy
 We, SERVANTS, take your privacy seriously and committed to protecting it. To better protect your privacy we provide this privacy policy notice, explaining the way your personal information is collected and used in our app.  
