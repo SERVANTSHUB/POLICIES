@@ -11,7 +11,7 @@ This app collects basic information about users such as your name, email address
 
 ## Usage Data 
 The information is tracked for routine administration, auditing and maintenance purposes.
-* To provide and improve our app: We use your information to personalize your experience, provide customer support, and improve our app's features.
+* To provide and improve our app thus, We use your information to personalize your experience, provide customer support, and improve our app's features.
 * For analytics: We may use your information for analytics purposes to understand how our app is used and to improve our services.
 
 ## Security
