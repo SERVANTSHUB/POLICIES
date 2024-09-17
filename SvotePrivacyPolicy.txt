@@ -1,6 +1,7 @@
-Developers: SERVANTS
-Product: SVOTE - Online Voting App
-We: The Developers
+> [!IMPORTANT]
+> * We: The Developers
+> * Developers: SERVANTS
+> * Product: SVOTE - Online Voting App
 
 # Privacy Policy
 We, SERVANTS, take your privacy seriously and committed to protecting it. To better protect your privacy we provide this privacy policy notice, explaining the way your personal information is collected and used in our app.  
@@ -10,7 +11,7 @@ This app collects basic information about users such as your name, email address
 
 ## Usage Data 
 The information is tracked for routine administration, auditing and maintenance purposes.
-* To provide and improve our app: We use your information to personalize your experience, provide customer support, and improve our app's features.
+* To provide and improve our app thus, We use your information to personalize your experience, provide customer support, and improve our app's features.
 * For analytics: We may use your information for analytics purposes to understand how our app is used and to improve our services.
 
 ## Security
@@ -33,4 +34,4 @@ This Privacy Policy is effective as of June 20, 2020 and will remain in effect e
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on this page.
 
 ## Contact Information
-For any questions or concerns regarding this privacy policy, please send us an email to developers@servantsteam.tech.
+For any questions or concerns regarding this privacy policy, please send us an email to developers@servantsteam.tech/developers@servantsteam.online.
